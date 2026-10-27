@@ -1,0 +1,11 @@
+# Local Deck & Publishing Assets (Kept locally for portfolio updates)
+deck-executivo.html
+deck-govtech-ai-pipeline.pdf
+Makefile
+linkedin-post-copy.md
+upwork-portfolio-copy.md
+
+# OS and Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
